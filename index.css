@@ -20,8 +20,8 @@ li:hover a#second{position:relative;
 section{max-width:960px;
         background-color:lightgreen;}
                   div#div2{background:lightgrey;
-                           max-width:230px;
-                           min-height:530px;
+                           max-width:190px;
+                           min-height:480px;
                            float:right;}
        span#div1{display:block;
                  background:white;
