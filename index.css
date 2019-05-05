@@ -2,10 +2,9 @@
 src:url(Knoo.ttf);}
 
 html{font-family:sans-serif;
-     font-size:20px;
+     font-size:14px;
      background-color:rgb(200,200,200);
-     max-width:960px;
-     color:blue;}
+     max-width:960px;}
      
   ul{color:black;
      border-style:groove;
