@@ -2,7 +2,7 @@
 src:url(Knoo.ttf);}
 
 html{font-family:sans-serif;
-     font-size:14px;
+     font-size:1.3em;
      background-color:rgb(200,200,200);
      max-width:960px;}
      
@@ -17,7 +17,7 @@ html{font-family:sans-serif;
 footer{background-color:rgb(160,180,200);
        padding:10px;
        text-align:center;
-       font-size:13px;
+       font-size:1.1em;
        clear:both;}
        
 textarea {width:870px;
@@ -116,7 +116,8 @@ li#Menu {border-bottom:4px solid black;}
                background:transparent;
                padding:40px;
                color:black;
-               font-size:xx-large;}
+               font-size:xx-large;
+               border-color:black;}
                
 #second + ul a:nth-child(3){cursor:help;}
 
