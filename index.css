@@ -17,7 +17,7 @@ html{font-family:sans-serif;
 footer{background-color:rgb(160,180,200);
        padding:10px;
        text-align:center;
-       font-size:0.6em;
+       font-size:1em;
        clear:both;}
        
 textarea {width:870px;
@@ -84,7 +84,7 @@ figcaption{font-size:10pt;}
 #first{position:absolute;
        background:lightgray;
        width:400px;
-       height:680px;
+       height:640px;
        border-right:4px solid black;
        left:-408px;
        border-top:4px solid black;
