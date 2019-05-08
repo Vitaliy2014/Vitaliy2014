@@ -83,12 +83,12 @@ figcaption{font-size:10pt;}
 
 a[href=*"github"]{text-decoration:none;
            display:block;}
-           #HeadDiv{min-width:600px;
+           #HeadDiv{max-width:400px;
            height:200px;
            background:silver;}
            a span#first, span#second{font-size:2.4em;
            display:inline-block;
-           width:400px;}
+           width:200px;}
            a span#first{background:lightgreen;
                        padding:40px 0px 40px 0px;
                        border-style:solid;
@@ -132,8 +132,7 @@ a[href=*"github"]{text-decoration:none;
             border-left:8px solid green;
             padding:0;}
             }
-            #Blogside{font-size:1.2em;
-            font-weight:900;}
+            #Blogside{font-weight:900;}
      
                      
         /*Меню сайта*/
