@@ -82,8 +82,9 @@ figcaption{font-size:10pt;}
          /*Реклама*/
 
 a[href=*"github"]{text-decoration:none;
-           display:block;}
-           #HeadDiv{max-width:400px;
+           display:block;
+font-size:8px;}
+           #HeadDiv{max-width:800px;
            height:200px;
            background:silver;}
            a span#first, span#second{font-size:2.4em;
@@ -132,7 +133,8 @@ a[href=*"github"]{text-decoration:none;
             border-left:8px solid green;
             padding:0;}
             }
-            #Blogside{font-weight:900;}
+            #Blogside{font-size:5px;
+font-weight:900;}
      
                      
         /*Меню сайта*/
