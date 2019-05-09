@@ -83,14 +83,14 @@ figcaption{font-size:10pt;}
 
 a[href=*"github"]{text-decoration:none;
            display:block;
+           border:none;
 font-size:1em;}
            #HeadDiv{max-width:960px;
            height:400px;
            background:silver;}
            a, #fir, #seco{font-size:1.8em;
            display:inline-block;
-           width:400px;
-           text-decoration:none;}
+           width:400px;}
            a #fir{background:lightgreen;
                        padding:40px 0px 40px 0px;
                        border-style:solid;
