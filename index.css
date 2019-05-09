@@ -82,8 +82,7 @@ figcaption{font-size:10pt;}
          /*Реклама*/
 
 a[href=*"github"]{text-decoration:none;
-           display:block;
-           border:none;
+           display: inline-block;
 font-size:1em;}
            #HeadDiv{max-width:960px;
            height:400px;
